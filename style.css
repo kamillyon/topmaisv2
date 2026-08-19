@@ -1,0 +1,79 @@
+        body {
+            text-align: center;
+            background: linear-gradient(rgb(192, 217, 255),rgb(47, 84, 128));
+            color: rgb(39, 25, 119)
+        }
+
+        h1 {
+            color: rgb(103, 19, 136);
+
+        }
+
+        article {
+            color: black;
+        }
+
+        footer {
+            color: purple;
+        }
+
+        img{
+            opacity: 0.75;
+        }
+
+        img:hover {
+            opacity: 1;;
+            border: 3px rgb(167, 18, 117) solid;
+            
+        }
+
+        #Alice {
+            width: 25%;
+            height: 25%;
+        }
+
+        #Inevitaveis {
+            width: 25%;
+            height: 25%;
+        }
+
+        #Prisioneiro {
+            width: 25%;
+            height: 25%;
+        }
+
+
+        #Sombrio {
+            width: 25%;
+            height: 25%;
+        }
+
+        #Azeitonas {
+            width: 25%;
+            height: 25%;
+        }
+
+        #Laranja {
+            width: 25%;
+            height: 25%;
+        }
+
+        #Coração {
+            width: 25%;
+            height: 25%;
+        }
+
+        #Manual {
+            width: 25%;
+            height: 25%;
+        }
+
+        #Rei_Perverso {
+            width: 25%;
+            height: 25%;
+        }
+
+        #Pequeno_Príncipe {
+            width: 25%;
+            height: 25%;
+        }
